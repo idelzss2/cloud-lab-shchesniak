@@ -17,6 +17,12 @@
 1. Натисніть кнопку Open in Colab.
 2. Виконайте Runtime -> Run all.
 
+Додаткові відомості:
+
+- У Colab бібліотеки `pandas` і `matplotlib` уже встановлені, нічого ставити не потрібно.
+- Notebook читає дані за прямим (raw) посиланням з цього репозиторію: `https://raw.githubusercontent.com/idelzss2/cloud-lab-shchesniak/main/data/iot_sensors.csv`, тому окремо завантажувати CSV не треба.
+- Для локального запуску потрібен Python 3 і команда `pip install pandas matplotlib jupyter`; потім відкрийте `notebooks/lab_analysis.ipynb` у Jupyter.
+
 ## Дані
 
 Набір вигаданий (синтетичний), 36 записів: sensor, temperature, humidity, hour, location. Три значення навмисно аномальні, щоб було що шукати в аналізі.
@@ -32,4 +38,5 @@
 Щесняк А., група ПІ-25-01
 
 ## Висновки
+
 Під час роботи з репозиторієм було відпрацьовано базовий робочий процес (GitHub Flow): створення окремих гілок для нових завдань, внесення змін через коміти та підготовку Pull Request для злиття коду в основну гілку `main`.
