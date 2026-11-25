@@ -1,5 +1,7 @@
 # Аналіз даних IoT-датчиків
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/idelzss2/cloud-lab-shchesniak/blob/main/notebooks/lab_analysis.ipynb)
+
 ## Опис проєкту
 
 Навчальний аналіз синтетичного набору даних про датчики IoT-стенда (варіант 24) мовою Python (pandas, matplotlib). Проєкт створено в межах лабораторної роботи «Gemini Notebook, Google Colab і GitHub».
