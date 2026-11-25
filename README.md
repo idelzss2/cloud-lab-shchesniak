@@ -27,4 +27,4 @@
 
 Щесняк А., група ПІ-25-01
 
-Діаграма наведена нижче.
+![Chart](https://github.com/idelzss2/cloud-lab-shchesniak/blob/main/docs/chart.png?raw=true)
