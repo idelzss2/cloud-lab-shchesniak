@@ -23,10 +23,10 @@
 
 ## Результати
 
+![Chart](https://github.com/idelzss2/cloud-lab-shchesniak/blob/main/docs/chart.png?raw=true)
+
 Середня температура за годинами на діаграмі спотворена двома аномаліями (58,0 °C і −12,0 °C); в інші години вона становить 22,5–25,2 °C.
 
 ## Автор
 
 Щесняк А., група ПІ-25-01
-
-![Chart](https://github.com/idelzss2/cloud-lab-shchesniak/blob/main/docs/chart.png?raw=true)
